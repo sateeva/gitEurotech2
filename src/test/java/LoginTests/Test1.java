@@ -10,6 +10,12 @@ public class Test1 {
         String street = "Hemingway";
         String state = "California";
 
+        //STUDENT INFO
+
+        String nameStudent = "John";
+        int studentNo = 224;
+
+
 
     }
 }
