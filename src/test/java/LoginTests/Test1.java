@@ -6,9 +6,9 @@ public class Test1 {
 
         //ADDITIONAL INFO
 
-        String number = "00000000";
-        String street = "xxxxxxxx";
-        String state = "xxxxxxxx";
+        String number = "6474647";
+        String street = "Hemingway";
+        String state = "California";
 
 
     }
