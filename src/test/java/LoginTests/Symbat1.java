@@ -7,7 +7,7 @@ public class Symbat1 {
 
         //***********
 
-        String coutry = "Germany";
+        String country = "Germany";
         String city= "Köln";
 
     }
